@@ -1,0 +1,34 @@
+{
+    "CT1000-12220": {
+        "pkg": "1.07 / ACE-750/MT",
+        "status": "NOK"
+    },
+    "EP2000-1183": {
+        "pkg": "1.15/intra_Bifule/MT",
+        "status": "OK"
+    },
+    "CT600-2995": {
+        "pkg": "5.0/Truck/MT",
+        "status": "OK"
+    },
+    "CT1000-12189": {
+        "pkg": "5.0/Truck/MT",
+        "status": "NOK"
+    },
+    "CT1000-12151": {
+        "pkg": "5.0/Truck/MT",
+        "status": "OK"
+    },
+    "EP800-300": {
+        "pkg": "Aptiv/Test/MT",
+        "status": "OK"
+    },
+    "EP800-111": {
+        "pkg": "5.0/Truck/MT",
+        "status": "OK"
+    },
+    "EP2000-4080": {
+        "pkg": "5.0/Truck/MT",
+        "status": "OK"
+    }
+}
